@@ -1,0 +1,14 @@
+{
+  "name": "words-occurences",
+  "version": "1.0.0",
+  "description": "",
+  "main": "occurences.js",
+  "scripts": {
+    "test": "jest --env=node"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.4.2"
+  }
+}
